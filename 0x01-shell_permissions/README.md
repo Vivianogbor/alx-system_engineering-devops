@@ -1,1 +1,2 @@
-Task 6 - 6-multiple_permissions
+Task 7 - 7-everybody
+
