@@ -1,2 +1,3 @@
-Task 17 - 17-hidethisword
+Task 18 - 18-letteronly
+
 
