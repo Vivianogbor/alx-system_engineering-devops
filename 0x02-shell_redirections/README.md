@@ -1,2 +1,2 @@
-Task 5 - Display the first ten lines of the /etc/passwd file
+Task 6 - Display the third line of the file iacta
 
