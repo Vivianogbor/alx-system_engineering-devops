@@ -1,2 +1,1 @@
-Task 6 - Display the third line of the file iacta
-
+Task 7 - 7-file
