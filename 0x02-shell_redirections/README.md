@@ -1,2 +1,2 @@
-Task 4 - Display the last tgen lines of the /etc/passwd file
+Task 5 - Display the first ten lines of the /etc/passwd file
 
