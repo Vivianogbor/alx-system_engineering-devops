@@ -1,2 +1,2 @@
-Task 6-create_local_variables
+Task 7-create_global_variables
 
