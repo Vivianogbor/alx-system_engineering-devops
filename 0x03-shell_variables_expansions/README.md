@@ -1,2 +1,1 @@
-Task 7-create_global_variables
-
+Task 8-true_knowledge
